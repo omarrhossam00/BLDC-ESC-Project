@@ -1,6 +1,6 @@
 # BLDC Motor Controller
 
-A BLDC motor controller using IR2110 gate driver and MOSFET inverter.
+A BLDC motor controller using gate driver and MOSFET inverter.
 
 ## Features
 - Three-phase inverter
