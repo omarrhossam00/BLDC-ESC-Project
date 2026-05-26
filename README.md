@@ -16,5 +16,4 @@ A BLDC motor controller using IR2110 gate driver and MOSFET inverter.
 - Power Electronics
 - Proteus
 
-## Team
-Omar Hossam and Team
+
