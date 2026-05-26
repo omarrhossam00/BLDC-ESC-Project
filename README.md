@@ -16,4 +16,14 @@ A BLDC motor controller using IR2110 gate driver and MOSFET inverter.
 - Power Electronics
 - Proteus
 
-
+## Team 
+- Omar Hossam Hassan
+- Seif Aldeen Saeed 
+- Abdullah Mohamed Eid 
+- Ahmed Mohamed Mohamed Faris 
+- Belal Mohamed Sayed Mahmoud 
+- Karim Ehab Fathy 
+- Moaz Mohamed Hany 
+- Mahmoud Moshier Abdelalim 
+- Ahmed Mohamed Mosaad 
+- Mohamed Amr Mohamed
